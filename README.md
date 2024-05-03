@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Uwang](https://github.com/Blue-Habit/gawean-android-app)
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Advanced Kotlin Coroutines and Flows**
 
 - 👯 I’m currently collaborate on [Blue Habbit](https://github.com/Blue-Habit)
 

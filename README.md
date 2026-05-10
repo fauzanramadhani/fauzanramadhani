@@ -1,107 +1,75 @@
-<h1 align="center">Hi 👋, I'm Fauzan Gracia Ramadhani</h1>
-<h3 align="center">Passionate about crafting user-centric front-end experiences guided by principles.</h3>
+# 👋 Hi there, I'm Fauzan Gracia Ramadhani!
 
-- 🔭 I’m currently working on [Uwang](https://github.com/Blue-Habit/gawean-android-app)
-
-- 🌱 I’m currently learning **Advanced Kotlin Coroutines and Flows**
-
-- 👯 I’m currently collaborate on [Blue Habbit](https://github.com/Blue-Habit)
-
-- 🤝 Let's connect on LinkedIn [Fauzan Gracia Ramadhani](https://www.linkedin.com/in/fauzan-ramadhani-0a4ab4247/)
-
-- 💬 Ask me about **Exploring top-notch mobile front-end architecture for peak performance and user experience.**
-
-- 📫 How to reach me **fauzanamadhani06@gmail.com**
-
-- ⚡ Fun fact **100 years ago, moon exploration seemed impossible, but now we're aiming for interstellar travel. Nothing is impossible with persistence.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fauzan-ramadhani-0a4ab4247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fauzan-ramadhani-0a4ab4247/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00EAFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Android+Native+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </p>
 
-<h3 align="left">⚡ Languages and Tools</h3>
+---
 
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+### 👨‍💻 About Me
 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+I am a passionate **Full Stack Developer** with a strong focus on building high-performance web and mobile applications. Currently, I am working at **PT. Gelora Aksara Pratama (Penerbit Erlangga Group)**, where I handle everything from frontend and mobile development to backend infrastructure and CI/CD pipelines.
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+- 🔭 I’m currently working on **enterprise-level HRIS and E-commerce ecosystems**.
+- 📱 I have a deep love for **Android Native (Kotlin)** and **Multiplatform (Flutter)** development.
+- ⚡ I believe in **Clean Architecture** and **SOLID principles** to build maintainable software.
+- 🎓 **Bangkit Academy Graduate** (Mobile Development Path).
 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+---
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+### 🛠️ Tech Stack
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+<div align="center">
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Mobile** | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Tools/DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+</div>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+---
 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+### 🚀 Featured Projects
 
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+- **Gelora Printing & Payment Gateway** - A complete e-commerce ecosystem integrated with Midtrans for seamless transactions.
+- **Tokosuma Web & Mobile** - High-performance retail platform built with Vue.js, Express, and Flutter.
+- **HRIS Management System** - A comprehensive solution for employee management, attendance, and HR operations.
+- **Production Monitoring App** - Real-time tracking system for manufacturing processes using Flutter and Node.js.
+- **Digital Proposal System** - Streamlined internal workflow for product proposal creation and approval.
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+---
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
+### 📊 GitHub Stats
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fauzanramadhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanramadhani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
+---
 
+### 📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+<div align="left">
+  <a href="https://linkedin.com/in/fauzangracia" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fauzanramadhani.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <i>"Development is not just about building features—it's about creating impactful digital experiences that are fast, intuitive, and built to scale."</i>
+</p>

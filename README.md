@@ -1,10 +1,13 @@
 # Fauzan Gracia Ramadhani
 
-Full Stack Developer with a strong focus on building high-performance web and mobile applications. Currently working at **PT. Gelora Aksara Pratama (Penerbit Erlangga Group)**, managing end-to-end development including mobile, web, backend, and infrastructure.
+Full Stack Developer focused on building scalable, high-performance web and mobile applications with modern technologies and clean architecture approaches.
+
+For complete portfolio, projects, and professional experience, visit:  
+[https://fauzanramadhani.dev](https://fauzanramadhani.dev)
 
 ---
 
-### Professional Profile
+## Professional Profile
 
 - Developing enterprise-level HRIS and E-commerce ecosystems.
 - Specialist in Android Native (Kotlin) and Multiplatform (Flutter) development.
@@ -13,7 +16,7 @@ Full Stack Developer with a strong focus on building high-performance web and mo
 
 ---
 
-### Technical Skills
+## Technical Skills
 
 | Category | Technologies |
 | :--- | :--- |
@@ -25,17 +28,26 @@ Full Stack Developer with a strong focus on building high-performance web and mo
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-- **Gelora Printing & Payment Gateway** - Integrated e-commerce ecosystem with Midtrans payment gateway for automated transactions.
-- **Tokosuma Web & Mobile** - Retail platform ecosystem built with Vue.js, Express, and Flutter.
-- **HRIS Management System** - Internal enterprise solution for employee management and HR operations.
-- **Production Monitoring App** - Real-time tracking system for manufacturing processes using Flutter and Node.js.
-- **Digital Proposal System** - Automated internal workflow for product proposal management.
+### Gelora Printing & Payment Gateway
+Integrated e-commerce ecosystem with Midtrans payment gateway for automated transactions.
+
+### Tokosuma Web & Mobile
+Retail platform ecosystem built with Vue.js, Express, and Flutter.
+
+### HRIS Management System
+Internal enterprise solution for employee management and HR operations.
+
+### Production Monitoring App
+Real-time tracking system for manufacturing processes using Flutter and Node.js.
+
+### Digital Proposal System
+Automated internal workflow for product proposal management.
 
 ---
 
-### GitHub Highlights
+## GitHub Highlights
 
 | Metric | Details |
 | :--- | :--- |
@@ -46,12 +58,9 @@ Full Stack Developer with a strong focus on building high-performance web and mo
 
 ---
 
-### Contact Information
+## Contact Information
 
-- **LinkedIn**: [linkedin.com/in/fauzangracia](https://linkedin.com/in/fauzangracia)
-- **Email**: fauzanramadhani.dev@gmail.com
-- **GitHub**: [github.com/fauzanramadhani](https://github.com/fauzanramadhani)
-
----
-
-> "Development is not just about building features—it's about creating impactful digital experiences that are fast, intuitive, and built to scale."
+- Website: [fauzanramadhani.dev](https://fauzanramadhani.dev)
+- LinkedIn: [linkedin.com/in/fauzangracia](https://linkedin.com/in/fauzangracia)
+- Email: fauzanramadhani.dev@gmail.com
+- GitHub: [github.com/fauzanramadhani](https://github.com/fauzanramadhani)

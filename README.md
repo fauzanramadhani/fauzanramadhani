@@ -2,9 +2,6 @@
 
 Full Stack Developer focused on building scalable, high-performance web and mobile applications with modern technologies and clean architecture approaches.
 
-For complete portfolio, projects, and professional experience, visit:  
-[https://fauzanramadhani.dev](https://fauzanramadhani.dev)
-
 ---
 
 ## Professional Profile
@@ -59,8 +56,7 @@ Automated internal workflow for product proposal management.
 ---
 
 ## Contact Information
-
-- Website: [fauzanramadhani.dev](https://fauzanramadhani.dev)
-- LinkedIn: [linkedin.com/in/fauzangracia](https://linkedin.com/in/fauzangracia)
-- Email: fauzanramadhani.dev@gmail.com
+- Email: fauzanramadhani06@gmail.com
 - GitHub: [github.com/fauzanramadhani](https://github.com/fauzanramadhani)
+## For complete portfolio, projects, and professional experience, visit:  
+[https://fauzanramadhani.dev](https://fauzanramadhani.dev)

@@ -35,15 +35,14 @@ Full Stack Developer with a strong focus on building high-performance web and mo
 
 ---
 
-### GitHub Statistics
+### GitHub Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fauzanramadhani&show_icons=true&count_private=true" alt="Fauzan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanramadhani&layout=compact" alt="Fauzan's Top Languages" />
-</p>
+| Metric | Details |
+| :--- | :--- |
+| **Primary Focus** | Full Stack Development (Web & Mobile) |
+| **Main Languages** | Kotlin, JavaScript, TypeScript, Dart, PHP |
+| **Total Projects** | 8+ Professional & Enterprise Applications |
+| **Key Expertise** | Clean Architecture, MVVM, CI/CD, Payment Integration |
 
 ---
 
